@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VivekSinghWork\\webAPI\\HRMS.Core\\HRMS.Core.csproj": {}
+    "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Core\\HRMS.Core.csproj": {}
   },
   "projects": {
-    "D:\\VivekSinghWork\\webAPI\\HRMS.Core\\HRMS.Core.csproj": {
+    "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Core\\HRMS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekSinghWork\\webAPI\\HRMS.Core\\HRMS.Core.csproj",
+        "projectUniqueName": "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Core\\HRMS.Core.csproj",
         "projectName": "HRMS.Core",
-        "projectPath": "D:\\VivekSinghWork\\webAPI\\HRMS.Core\\HRMS.Core.csproj",
-        "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekSinghWork\\webAPI\\HRMS.Core\\obj\\",
+        "projectPath": "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Core\\HRMS.Core.csproj",
+        "packagesPath": "C:\\Users\\solev\\.nuget\\packages\\",
+        "outputPath": "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\solev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +22,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\VivekSinghWork\\webAPI\\HRMS.Entities\\HRMS.Entities.csproj": {
-                "projectPath": "D:\\VivekSinghWork\\webAPI\\HRMS.Entities\\HRMS.Entities.csproj"
+              "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Entities\\HRMS.Entities.csproj": {
+                "projectPath": "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Entities\\HRMS.Entities.csproj"
               }
             }
           }
@@ -70,21 +71,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\VivekSinghWork\\webAPI\\HRMS.Entities\\HRMS.Entities.csproj": {
+    "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Entities\\HRMS.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VivekSinghWork\\webAPI\\HRMS.Entities\\HRMS.Entities.csproj",
+        "projectUniqueName": "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Entities\\HRMS.Entities.csproj",
         "projectName": "HRMS.Entities",
-        "projectPath": "D:\\VivekSinghWork\\webAPI\\HRMS.Entities\\HRMS.Entities.csproj",
-        "packagesPath": "C:\\Users\\Vivek Singh\\.nuget\\packages\\",
-        "outputPath": "D:\\VivekSinghWork\\webAPI\\HRMS.Entities\\obj\\",
+        "projectPath": "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Entities\\HRMS.Entities.csproj",
+        "packagesPath": "C:\\Users\\solev\\.nuget\\packages\\",
+        "outputPath": "D:\\Daily_Practice\\ADOwebAPI\\HRMS.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Vivek Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\solev\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -92,6 +93,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -146,7 +148,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

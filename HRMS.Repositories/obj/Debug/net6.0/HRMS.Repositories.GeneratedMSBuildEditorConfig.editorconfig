@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = HRMS.Repositories
-build_property.ProjectDir = D:\VivekSinghWork\webAPI\HRMS.Repositories\
+build_property.ProjectDir = D:\Daily_Practice\ADOwebAPI\HRMS.Repositories\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
