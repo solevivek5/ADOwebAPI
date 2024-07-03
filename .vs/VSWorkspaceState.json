@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HRMS.Api",
+    "\\HRMS.Api\\HRMS.Api",
+    "\\HRMS.Core",
+    "\\HRMS.Interfaces",
+    "\\HRMS.Interfaces\\Employees"
   ],
+  "SelectedNode": "\\HRMS.Api\\HRMS.Api.sln",
   "PreviewInSolutionExplorer": false
 }
